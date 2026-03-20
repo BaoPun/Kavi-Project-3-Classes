@@ -19,6 +19,7 @@ An example of an exception to throw is if you are trying to draw a card from the
 There are more possible exception cases to consider than this, so try to think of as many cases as you can.  
 
 ## UML Diagram
+![project](project_3_uml.png)
 
 # Suit
 This is already done for you.
